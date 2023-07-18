@@ -3,7 +3,6 @@
 
 <a href="https://favaz.dev" target="_blank"><img align="left" alt="aakarsh.me" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
 <a href="https://linkedin.com/in/favacl/" target="_blank"><img align="left" alt="Felipe V | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://twitter.com/FavazCL" target="_blank"><img align="left" alt="Felipe V | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
 <a href="https://medium.com/@favazcl" target="_blank"><img align="left" alt="Felipe V | Medium" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/medium.svg" />
 <a href="https://stackoverflow.com/users/10210902/felipe-vergara" target="_blank"><img align="left" alt="Felipe V | Stackoverflow" width="22px" src="https://www.iconsdb.com/icons/preview/white/stackoverflow-xxl.png" />
   
